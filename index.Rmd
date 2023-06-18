@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 ---
 site: blogdown:::blogdown_site
 ---
 
 <!-- This file is for blogdown only. Please do not edit it. -->
+=======
+---
+site: blogdown:::blogdown_site
+---
+
+<!-- This file is for blogdown only. Please do not edit it. -->
+>>>>>>> 250b96f849be37914bb24ca2562a42c1f9447e49
